@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-02-02T22:15:58.946Z",
+  "product": {
+    "slug": "vault-ops-orphan-finder",
+    "name": "Vault Ops - Orphan Finder",
+    "description": "Vault Ops - Orphan Finder handles unlinked note detection with scheduled scan and delivers orphan notes list as command output.",
+    "version": "0.1.1",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "obsidian_plugin",
+    "productType": "plugin"
+  },
+  "modules": [
+    "ui_settings",
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "obsidian",
+      "vault",
+      "maintenance",
+      "writing",
+      "hygiene",
+      "productivity",
+      "pkm",
+      "knowledge",
+      "notes",
+      "ops",
+      "orphan",
+      "finder",
+      "unlinked",
+      "note",
+      "detection",
+      "scheduled",
+      "scan",
+      "list",
+      "command",
+      "output"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "obsidian_plugin",
+    "displayName": "Obsidian Community Plugin",
+    "kind": "plugin"
+  }
+}

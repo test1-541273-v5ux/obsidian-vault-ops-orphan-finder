@@ -1,0 +1,10 @@
+{
+  "id": "vault-ops-orphan-finder",
+  "name": "Vault Ops - Orphan Finder",
+  "version": "0.1.1",
+  "minAppVersion": "1.5.0",
+  "description": "Vault Ops - Orphan Finder handles unlinked note detection with scheduled scan and delivers orphan notes list as command output.",
+  "author": "YourCompany",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}

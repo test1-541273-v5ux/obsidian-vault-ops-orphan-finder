@@ -1,0 +1,104 @@
+{
+  "primaryKeywords": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops"
+  ],
+  "secondaryKeywords": [
+    "editor",
+    "note-tool",
+    "capture",
+    "scan-tool",
+    "orphan-tool",
+    "output-tool",
+    "command-tool",
+    "as-tool",
+    "detection",
+    "obsidian_plugin"
+  ],
+  "tags": [
+    "obsidian",
+    "vault",
+    "maintenance",
+    "writing",
+    "hygiene",
+    "productivity",
+    "pkm",
+    "knowledge",
+    "notes",
+    "ops",
+    "editor",
+    "note-tool",
+    "capture",
+    "scan-tool",
+    "orphan-tool",
+    "output-tool",
+    "command-tool",
+    "as-tool",
+    "detection",
+    "obsidian_plugin",
+    "obsidian-plugin",
+    "with",
+    "delivers",
+    "output"
+  ],
+  "synonyms": {
+    "detection": [
+      "detection-ops",
+      "detection-workflow",
+      "detection-tool"
+    ],
+    "obsidian_plugin": [
+      "obsidianplugin-ops",
+      "obsidianplugin-workflow",
+      "obsidianplugin-tool"
+    ],
+    "with": [
+      "with-ops",
+      "with-workflow",
+      "with-tool"
+    ],
+    "delivers": [
+      "delivers-ops",
+      "delivers-workflow",
+      "delivers-tool"
+    ],
+    "output": [
+      "output-ops",
+      "output-workflow",
+      "output-tool"
+    ],
+    "note": [
+      "note-ops",
+      "note-workflow",
+      "note-tool"
+    ],
+    "list": [
+      "list-ops",
+      "list-workflow",
+      "list-tool"
+    ],
+    "scan": [
+      "scan-ops",
+      "scan-workflow",
+      "scan-tool"
+    ],
+    "notes": [
+      "documents",
+      "entries",
+      "knowledge"
+    ],
+    "productivity": [
+      "focus",
+      "efficiency",
+      "workflow"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+Vault Ops - Orphan Finder handles unlinked note detection with scheduled scan and delivers orphan notes list as command output. Focused on…
+Reduce publishing friction across marketplace queues. Focus: As Tool Tool.

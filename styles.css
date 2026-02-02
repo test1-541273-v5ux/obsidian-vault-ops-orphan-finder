@@ -1,0 +1,6 @@
+/* Vault Ops - Orphan Finder styles */
+.vault-ops-orphan-finder-panel {
+  border: 1px solid var(--background-modifier-border);
+  padding: 12px;
+  border-radius: 8px;
+}
